@@ -1,0 +1,19 @@
+.app {
+  background-color: #c8e4cc;
+  height: 650px;
+  width: auto;
+  max-width: 1300px;
+  border-radius: 20px;
+  margin: auto;
+  box-sizing: content-box;
+}
+
+.horizontalRule {
+  border: none;
+  height: 5px;
+  background-color: black;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 45px;
+  border-radius: 20px;
+}

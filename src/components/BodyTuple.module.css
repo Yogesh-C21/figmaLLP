@@ -1,0 +1,114 @@
+.bodyTuple {
+    display: flex;
+    align-items: center;
+    position: relative;
+    bottom:40px; 
+}
+
+.bodyPageTitle {
+    display: flex;
+    margin-left: 15px;
+    align-items: center;
+}
+
+.bodyPageChart {
+    display: flex;
+    block-size: fit-content;
+}
+
+.bodyPageDesign {
+    display: flex;
+    block-size: fit-content;
+    position: relative;
+    left: 30px;
+}
+
+.bodyPageInteraction {
+    display: flex;
+    block-size: fit-content;
+    position: relative;
+    right: 15px;
+}
+
+.bodyPageIntegration {
+    display: flex;
+    block-size: fit-content;
+    position: relative;
+    right: 40px;
+}
+
+.bodyPageCost {
+    display: flex;
+    margin-right: 15px;
+    font-size: 22px;
+    font-weight: 500;
+    block-size: fit-content;
+    position: relative;
+    right: 5px;
+}
+
+.sNo {
+    font-size: 22px;
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.title {
+    margin-left: 5px;
+    font-size: 22px;
+    font-weight: 400;
+    position: relative;
+}
+
+.design {
+    margin-left: 100px;
+    margin-right: 10px;
+}
+
+.interaction {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.integration {
+    margin-left: 10px;
+}
+
+.cost {
+    margin-left: 80px;
+}
+
+.verticalColumn {
+    margin: 33px 0px;
+}
+
+.verticalColumnTitle {
+    margin: none;
+    margin-left: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.verticalColumnCost {
+    margin: 42.5px 0px;
+    block-size: fit-content;
+    display: flex;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.pagesTitlesNo {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.pagesTitle {
+    font-size: 22px;
+    align-items: center;
+    width: 110px;
+}
+
+.pages {
+    display: flex;
+    flex-direction: column;
+}

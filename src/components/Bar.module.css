@@ -1,0 +1,40 @@
+.bar {
+    background-color: white;
+    width: 275px;
+    height: 40px;
+    display: flex;
+    vertical-align: center;
+    border: none;
+    border-radius: 24px;
+    z-index: 100;
+    align-items: left;
+}
+
+.barFill {
+    margin: auto;
+    height: 35px;
+    border: none;
+    border-radius: 24px;
+    text-align: center;
+}
+
+.plus {
+    font-size: 27px;
+    position: relative;
+    right: 10px;
+}
+
+.minus {
+    font-size: 27px;
+    position: relative;
+    left: 12px;
+}
+
+.barFillText {
+    margin-top: 0px;
+    block-size: fit-content;
+    font-size: 15px;
+    font-weight: 510;
+    position: relative;
+    top: 7px;
+}

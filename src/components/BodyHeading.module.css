@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.containerPages {
+    display: flex;
+    margin-left: 25px;
+    font-size: 22px;
+    font-weight: 500;
+    align-items: center;
+    margin-right: 160px;
+    block-size: fit-content;
+}
+
+.containerDesign {
+    display: flex;
+    font-size: 22px;
+    font-weight: 500;
+    align-items: center;
+    margin-right: 200px;
+    block-size: fit-content;
+}
+
+.containerInteraction {
+    display: flex;
+    font-size: 22px;
+    font-weight: 500;
+    align-items: center;
+    block-size: fit-content;
+
+}
+
+.containerIntegration {
+    margin-left: 12px;
+    display: flex;
+    font-size: 22px;
+    font-weight: 500;
+    align-items: center;
+    block-size: fit-content;
+}
+
+.containerCost {
+    margin-left: 210px;
+    display: flex;
+    font-size: 22px;
+    font-weight: 500;
+    align-items: center;
+}
+
+.interactionText {
+    width: 265px;
+}

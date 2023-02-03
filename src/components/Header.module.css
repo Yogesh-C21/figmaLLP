@@ -1,0 +1,84 @@
+.header {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.headerPageNumber {
+    display: flex;
+    padding: 0 20px;
+}
+
+.headerPageNumberNumber {
+    font-size: 64px;
+    font-weight: 800;
+    block-size: fit-content;
+    position: relative;
+    top: 15px;
+}
+
+.headerPageNumberText {
+    block-size: fit-content;
+    width: fit-content;
+    position: relative;
+    font-weight: 600;
+    top: 115px;
+}
+
+.headerCost {
+    display: flex;
+    position: relative;
+    top: 20px;
+}
+
+.headerCostLineOne {
+    font-size: 25px;
+    font-weight: 600;
+    position: relative;
+    top: 20px;
+}
+
+.headerCostLineTwo {
+    font-size: 12px;
+    font-weight: 500;
+    position: relative;
+    bottom: 10px;
+}
+
+.headerCostOne {
+    margin-left: 150px;
+    width: 290px;
+}
+
+.headerCostTwo {
+    width: 290px;
+}
+
+.headerCostThree {
+    width: 280px;
+}
+
+
+
+
+
+.headerSubTotalContainer {
+    margin-left: 35px;
+}
+
+.subTotal {
+    position: relative;
+    top: 60px;
+    justify-content: end;
+    left: 48px;
+    font-weight: 600;
+    block-size: fit-content;
+    width: fit-content;
+}
+
+.subTotalAmount {
+    font-size: 50px;
+    font-weight: 700;
+    block-size: fit-content;
+}
